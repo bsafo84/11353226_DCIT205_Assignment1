@@ -39,9 +39,9 @@ export const MyNavbar = () =>{
         </Navbar>
     
         <Card >
-          <Card.Header className="text-center">Xmee App Features</Card.Header>
+          <Card.Header className="text-center">MGS Features</Card.Header>
           <Card.Body>
-          <Card.Title  className="text-center">About Xmee App</Card.Title>
+          <Card.Title  className="text-center">About Missing Grade System</Card.Title>
           <Card.Text>
           MGS is 7-page website that acts as the front for a
            "Missing Grade Reporting System". 

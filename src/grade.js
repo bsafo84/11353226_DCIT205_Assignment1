@@ -42,7 +42,7 @@ const Grade = () => {
             <img
               alt=""
               src={logo}
-              width="60"
+              width="200"
               height="50"
               className="d-inline-block align-top" />{' '}
   
